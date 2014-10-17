@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ixl:home|Door43 (ixl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ixl|d43-ixl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ixl/archive/master.zip|d43-ixl.zip]]
+
+**Recent Changes**
+{{changes>ns = ixl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ixl|Ethnologue data]]
+
